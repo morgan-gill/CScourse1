@@ -1,0 +1,37 @@
+
+2.0	System Overview:
+
+The System Overview section introduces the system context and design.
+
+	// --- //
+
+2.1	Project Perspective:
+
+The Project Perspective describes the context and origin of the system by defining whether the system is:
+•	a follow-on member of a system family
+•	a replacement for existing systems, or
+•	a new self-contained system.
+
+	// --- //
+
+2.2	System Context:
+
+The System Context describes the resulting software within the business case, including strategic issues in which the system is involved or which it specifically addresses.  
+
+	// --- //
+
+2.3	General Constraints:
+
+General Constraints identify any business or system constraints that will impact the manner in which the software is to be:
+•	specified
+•	designed
+•	implemented, or 
+•	tested.  
+
+	// --- //
+
+2.4	Assumptions and Dependencies:
+
+List any assumptions that have been made during the initiation of the project.  In addition, list any dependencies that may impact its success or the desired result.
+
+	// --- //
